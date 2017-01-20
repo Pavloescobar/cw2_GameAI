@@ -1,0 +1,168 @@
+fileFormatVersion: 2
+guid: 9b0b991bc4fa7b84d9b5ed7aeca4da8c
+timeCreated: 1484375108
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Ceiling
+    100002: Dungeon_Tunnel_A
+    100004: //RootNode
+    100006: Roundabout_Continuation
+    100008: Sewer_Tunnel_A
+    100010: Sewer_Tunnel_B
+    100012: Sewer_Tunnel_C
+    100014: Tunnel_Grate
+    100016: Tunnel_Grate_001
+    100018: Wall_A
+    100020: Wall_A_Corner
+    100022: Wall_A_Roundabout
+    100024: Wall_B
+    100026: Wall_B_Corner
+    100028: Wall_B_Roundabout
+    100030: Wall_C
+    100032: Wall_D
+    100034: Wall_D_001
+    100036: Wall_E
+    100038: Wall_E_001
+    400000: Ceiling
+    400002: Dungeon_Tunnel_A
+    400004: //RootNode
+    400006: Roundabout_Continuation
+    400008: Sewer_Tunnel_A
+    400010: Sewer_Tunnel_B
+    400012: Sewer_Tunnel_C
+    400014: Tunnel_Grate
+    400016: Tunnel_Grate_001
+    400018: Wall_A
+    400020: Wall_A_Corner
+    400022: Wall_A_Roundabout
+    400024: Wall_B
+    400026: Wall_B_Corner
+    400028: Wall_B_Roundabout
+    400030: Wall_C
+    400032: Wall_D
+    400034: Wall_D_001
+    400036: Wall_E
+    400038: Wall_E_001
+    2300000: Ceiling
+    2300002: Dungeon_Tunnel_A
+    2300004: Roundabout_Continuation
+    2300006: Sewer_Tunnel_A
+    2300008: Sewer_Tunnel_B
+    2300010: Sewer_Tunnel_C
+    2300012: Tunnel_Grate
+    2300014: Tunnel_Grate_001
+    2300016: Wall_A
+    2300018: Wall_A_Corner
+    2300020: Wall_A_Roundabout
+    2300022: Wall_B
+    2300024: Wall_B_Corner
+    2300026: Wall_B_Roundabout
+    2300028: Wall_C
+    2300030: Wall_D_001
+    2300032: Wall_E_001
+    3300000: Ceiling
+    3300002: Dungeon_Tunnel_A
+    3300004: Roundabout_Continuation
+    3300006: Sewer_Tunnel_A
+    3300008: Sewer_Tunnel_B
+    3300010: Sewer_Tunnel_C
+    3300012: Tunnel_Grate
+    3300014: Tunnel_Grate_001
+    3300016: Wall_A
+    3300018: Wall_A_Corner
+    3300020: Wall_A_Roundabout
+    3300022: Wall_B
+    3300024: Wall_B_Corner
+    3300026: Wall_B_Roundabout
+    3300028: Wall_C
+    3300030: Wall_D_001
+    3300032: Wall_E_001
+    4300000: Wall_A
+    4300002: Wall_A_Corner
+    4300004: Wall_B
+    4300006: Wall_B_Corner
+    4300008: Wall_C
+    4300010: Roundabout_Continuation
+    4300012: Wall_A_Roundabout
+    4300014: Wall_B_Roundabout
+    4300016: Dungeon_Tunnel_A
+    4300018: Sewer_Tunnel_A
+    4300020: Sewer_Tunnel_B
+    4300022: Sewer_Tunnel_C
+    4300024: Ceiling
+    4300026: Tunnel_Grate_001
+    4300028: Wall_D_001
+    4300030: Tunnel_Grate
+    4300032: Wall_E_001
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
